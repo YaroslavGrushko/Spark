@@ -12,7 +12,7 @@ hello, for example we have taxi service with 3000 taxi drivers, also we have 500
   c. (for Windows 10) Settings > Edit environment variables:
     **SPARK_HOME=C:\Spark\spark-2.2.1-bin-hadoop2.6
     PYTHONPATH=%SPARK_HOME%\python;%PYTHONPATH%
-    HADOOP_HOME=C:\Spark\winutils\*
+    HADOOP_HOME=C:\Spark\winutils\**
 # Get Started
   
  1. download this project 
