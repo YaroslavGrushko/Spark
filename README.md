@@ -3,7 +3,7 @@ hello, for example we have taxi service with 3000 taxi drivers, also we have 500
 1. let's generate Big Data file of random orders of the clients to this service with some metadata (like start_point, end_point, start_date, end_date, etc.)  
 2. than let's analyze this Big Data with Spark.  
 
-# Prerequests  
+# Prerequests (for Windows)  
 1. IDE that supports python (exm. Visual Studio Code - free)  
 2. Python installed  
 3. Spark installed  
